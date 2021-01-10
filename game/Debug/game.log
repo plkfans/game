@@ -1,0 +1,5 @@
+﻿  game.c
+D:\C语言\code\game\game.c(56,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  test.c
+  正在生成代码...
+  game.vcxproj -> D:\C语言\code\game\Debug\game.exe
